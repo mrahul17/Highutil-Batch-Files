@@ -1,3 +1,2 @@
-chrome stackoverflow.com
-chrome mail.google.com
+chrome stackoverflow.com github.com
 firefox quora.com
